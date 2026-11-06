@@ -1,0 +1,32 @@
+[
+  {
+    "name": "III Trofeo Máster Open de Natación Ciudad Ponferrada",
+    "date": "14/11/2026",
+    "location": "Ponferrada",
+    "pool": "El Plantio",
+    "poolSize": "25m",
+    "categories": ["Master"],
+    "eventsUrl": "https://raw.githubusercontent.com/anita-87/data/refs/heads/main/III_trofeo_master_ciudad_ponferrada/events.json",
+    "daysUrl": "https://raw.githubusercontent.com/anita-87/data/refs/heads/main/III_trofeo_master_ciudad_ponferrada/days.json"
+  },
+  {
+    "name": "III Trofeo Internacional Open Máster Ciudad de Zamora",
+    "date": "21/11/2026",
+    "location": "Zamora",
+    "pool": "Los Almendros",
+    "poolSize": "25m",
+    "categories": ["Master"],
+    "eventsUrl": "assets/data/zamora_events.json",
+    "daysUrl": "assets/data/zamora_days.json"
+  },
+  {
+    "name": "XXXII Copa Clubes de Natación Segunda División",
+    "date": "12/12/2026-13/12/2026",
+    "location": "Valladolid",
+    "pool": "Parquesol",
+    "poolSize": "25m",
+    "categories": ["Absoluta", "Junior", "Infantil"],
+    "eventsUrl": "assets/data/valladolid_events.json",
+    "daysUrl": "assets/data/valladolid_days.json"
+  }
+]
