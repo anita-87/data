@@ -1,0 +1,134 @@
+{
+  "day1": {
+    "session1": {
+      "title": "1 - Sábado, 4 de Julio de 2026 - 04/07/2026 - 9:45",
+      "events": [
+        {
+          "number": "1",
+          "distance": "50m",
+          "name": "50m Libres",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "ABSOL",
+          "category": "Absoluto Masculino",
+          "startList": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/StartList_40.pdf",
+          "results": "",
+          "hour": "9:45"
+        },
+        {
+          "number": "2",
+          "distance": "100m",
+          "name": "100m Libres",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "ABSOL",
+          "category": "Absoluto Masculino",
+          "startList": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/StartList_40.pdf",
+          "results": "",
+          "hour": "9:51"
+        },
+        {
+          "number": "3",
+          "distance": "200m",
+          "name": "200m Libres",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "ABSOL",
+          "category": "Absoluto Masculino",
+          "startList": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/StartList_40.pdf",
+          "results": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/ResultList_40.pdf",
+          "hour": "9:58"
+        },
+        {
+          "number": "4",
+          "distance": "400m",
+          "name": "400m Libres",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "ABSOL",
+          "category": "Absoluto Masculino",
+          "startList": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/StartList_40.pdf",
+          "results": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/ResultList_40.pdf",
+          "hour": "10:07"
+        },
+        {
+          "number": "5",
+          "distance": "800m",
+          "name": "800m Libres",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "ABSOL",
+          "category": "Absoluto Masculino",
+          "startList": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/StartList_40.pdf",
+          "results": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/ResultList_40.pdf",
+          "hour": "9:45"
+        },
+        {
+          "number": "6",
+          "distance": "1500m",
+          "name": "1500m Libres",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "ABSOL",
+          "category": "Absoluto Masculino",
+          "startList": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/StartList_40.pdf",
+          "results": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/ResultList_40.pdf",
+          "hour": "9:45"
+        }
+      ]
+    },
+    "session2": {
+      "title": "2 - Sábado, 4 de Julio de 2026 - 04/07/2026 - 16:30",
+      "events": [
+        {
+          "number": "7",
+          "distance": "50m",
+          "name": "50m Espalda",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "ABSOL",
+          "category": "Absoluto Masculino",
+          "startList": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/StartList_40.pdf",
+          "results": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/ResultList_40.pdf",
+          "hour": "16:30"
+        },
+        {
+          "number": "8",
+          "distance": "100m",
+          "name": "100m Espalda",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "ABSOL",
+          "category": "Absoluto Masculino",
+          "startList": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/StartList_40.pdf",
+          "results": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/ResultList_40.pdf",
+          "hour": "16:37"
+        },
+        {
+          "number": "9",
+          "distance": "200m",
+          "name": "200m Espalda",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "ABSOL",
+          "category": "Absoluto Masculino",
+          "startList": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/StartList_40.pdf",
+          "results": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/ResultList_40.pdf",
+          "hour": "16:44"
+        },
+        {
+          "number": "10",
+          "distance": "50m",
+          "name": "50m Braza",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "ABSOL",
+          "category": "Absoluto Masculino",
+          "startList": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/StartList_40.pdf",
+          "results": "https://fenacyl.com/resultados/ONLINE/25_26/CTOCYLABSOJUNVEVA/ResultList_40.pdf",
+          "hour": "16:44"
+        }
+      ]
+    }
+  }
+}
