@@ -198,7 +198,8 @@
     }
   },
   "other": {
-    "title": "Otros eventos",
+    "meddly": {
+      "title": "Estilo",
       "events": [
         {
           "number": "9",
@@ -213,5 +214,6 @@
           "hour": ""
         }
       ]
+    }
   }
 }
