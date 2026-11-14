@@ -7,7 +7,13 @@
     "poolSize": "25m",
     "categories": ["Master"],
     "eventsUrl": "https://raw.githubusercontent.com/anita-87/data/refs/heads/main/III_trofeo_master_ciudad_ponferrada/events.json",
-    "daysUrl": "https://raw.githubusercontent.com/anita-87/data/refs/heads/main/III_trofeo_master_ciudad_ponferrada/days.json"
+    "daysUrl": "https://raw.githubusercontent.com/anita-87/data/refs/heads/main/III_trofeo_master_ciudad_ponferrada/days.json",
+    "entryUrl": "https://fenacyl.com/resultados/ONLINE/26_27/IIITMONCPO/EntryStatistics.pdf",
+    "pointsUrl": "https://fenacyl.com/resultados/ONLINE/26_27/IIITMONCPO/PointScore0.pdf",
+    "resultsUrl": {
+      "Masculino": "https://fenacyl.com/resultados/ONLINE/26_27/IIITMONCPO/CombinedEvent0.pdf",
+      "Femenino": "https://fenacyl.com/resultados/ONLINE/26_27/IIITMONCPO/CombinedEvent1.pdf"
+    }
   },
   {
     "name": "III Trofeo Internacional Open Máster Ciudad de Zamora",
@@ -17,7 +23,10 @@
     "poolSize": "25m",
     "categories": ["Master"],
     "eventsUrl": "assets/data/zamora_events.json",
-    "daysUrl": "assets/data/zamora_days.json"
+    "daysUrl": "assets/data/zamora_days.json",
+    "entryUrl": "",
+    "pointsUrl": "",
+    "resultsUrl": {}
   },
   {
     "name": "XXXII Copa Clubes de Natación Segunda División",
@@ -27,6 +36,9 @@
     "poolSize": "25m",
     "categories": ["Absoluta", "Junior", "Infantil"],
     "eventsUrl": "assets/data/valladolid_events.json",
-    "daysUrl": "assets/data/valladolid_days.json"
+    "daysUrl": "assets/data/valladolid_days.json",
+    "entryUrl": "",
+    "pointsUrl": "",
+    "resultsUrl": {}
   }
 ]
