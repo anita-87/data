@@ -1,0 +1,161 @@
+{
+  "male": {
+    "freestyle": {
+      "title": "Libres",
+      "events": [
+        {
+          "number": "7",
+          "distance": "50m",
+          "name": "50m Libres",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "20+",
+          "category": "20 años y mayores",
+          "startList": "https://www.natacionzamora.es/trofeo_master_2026/StartList_7.pdf",
+          "results": "https://www.natacionzamora.es/trofeo_master_2026/ResultList_7.pdf",
+          "hour": "12:35"
+        }
+      ]
+    },
+    "backstroke": {
+      "title": "Espalda",
+      "events": [
+        {
+          "number": "3",
+          "distance": "50m",
+          "name": "50m Espalda",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "20+",
+          "category": "20 años y mayores",
+          "startList": "https://www.natacionzamora.es/trofeo_master_2026/StartList_3.pdf",
+          "results": "https://www.natacionzamora.es/trofeo_master_2026/ResultList_3.pdf",
+          "hour": "11:04"
+        }
+      ]
+    },
+    "breaststroke": {
+      "title": "Braza",
+      "events": [
+        {
+          "number": "5",
+          "distance": "50m",
+          "name": "50m Braza",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "20+",
+          "category": "20 años y mayores",
+          "startList": "https://www.natacionzamora.es/trofeo_master_2026/StartList_5.pdf",
+          "results": "https://www.natacionzamora.es/trofeo_master_2026/ResultList_5.pdf",
+          "hour": "11:56"
+        }
+      ]
+    },
+    "butterfly": {
+      "title": "Mariposa",
+      "events": [
+        {
+          "number": "1",
+          "distance": "50m",
+          "name": "50m Mariposa",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "20+",
+          "category": "20 años y mayores",
+          "startList": "https://www.natacionzamora.es/trofeo_master_2026/StartList_1.pdf",
+          "results": "https://www.natacionzamora.es/trofeo_master_2026/ResultList_1.pdf",
+          "hour": "10:30"
+        }
+      ]
+    }
+  },
+  "female": {
+    "freestyle": {
+      "title": "Libres",
+      "events": [
+        {
+          "number": "8",
+          "distance": "50m",
+          "name": "50m Libres",
+          "round": "Final contra reloj",
+          "gender": "Fem.",
+          "categoryShort": "20+",
+          "category": "20 años y mayores",
+          "startList": "https://www.natacionzamora.es/trofeo_master_2026/StartList_8.pdf",
+          "results": "https://www.natacionzamora.es/trofeo_master_2026/ResultList_8.pdf",
+          "hour": "12:57"
+        }
+      ]
+    },
+    "backstroke": {
+      "title": "Espalda",
+      "events": [
+        {
+          "number": "4",
+          "distance": "50m",
+          "name": "50m Espalda",
+          "round": "Final contra reloj",
+          "gender": "Fem.",
+          "categoryShort": "20+",
+          "category": "20 años y mayores",
+          "startList": "https://www.natacionzamora.es/trofeo_master_2026/StartList_4.pdf",
+          "results": "https://www.natacionzamora.es/trofeo_master_2026/ResultList_4.pdf",
+          "hour": "11:28"
+        }
+      ]
+    },
+    "breaststroke": {
+      "title": "Braza",
+      "events": [
+        {
+          "number": "6",
+          "distance": "50m",
+          "name": "50m Braza",
+          "round": "Final contra reloj",
+          "gender": "Fem.",
+          "categoryShort": "20+",
+          "category": "20 años y mayores",
+          "startList": "https://www.natacionzamora.es/trofeo_master_2026/StartList_6.pdf",
+          "results": "https://www.natacionzamora.es/trofeo_master_2026/ResultList_6.pdf",
+          "hour": "12:19"
+        }
+      ]
+    },
+    "butterfly": {
+      "title": "Mariposa",
+      "events": [
+        {
+          "number": "2",
+          "distance": "50m",
+          "name": "50m Mariposa",
+          "round": "Final contra reloj",
+          "gender": "Fem.",
+          "categoryShort": "20+",
+          "category": "20 años y mayores",
+          "startList": "https://www.natacionzamora.es/trofeo_master_2026/StartList_2.pdf",
+          "results": "https://www.natacionzamora.es/trofeo_master_2026/ResultList_2.pdf",
+          "hour": "10:50"
+        }
+      ]
+    }
+  },
+  "other": {
+    "meddly": {
+      "title": "Estilos",
+      "events": [
+        {
+          "number": "9",
+          "distance": "4x50m",
+          "name": "4x50m Estilos",
+          "round": "Final contra reloj",
+          "gender": "Mixto",
+          "categoryShort": "AG 80 - 279",
+          "category": "AG 80 - 279",
+          "startList": "https://www.natacionzamora.es/trofeo_master_2026/StartList_9.pdf",
+          "results": "https://www.natacionzamora.es/trofeo_master_2026/ResultList_9.pdf",
+          "hour": "13:21"
+        }
+      ]
+    }
+  }
+}
