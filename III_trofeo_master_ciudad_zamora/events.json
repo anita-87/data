@@ -67,6 +67,23 @@
           "hour": "10:30"
         }
       ]
+    },
+    "free_relay": {
+      "title": "Libre Relevo",
+      "events": [
+        {
+          "number": "12",
+          "distance": "4x50m",
+          "name": "4x50m Libre",
+          "round": "Final contra reloj",
+          "gender": "Masc.",
+          "categoryShort": "100 - 279",
+          "category": "AG 100 - 279",
+          "startList": "https://www.natacionzamora.es/trofeo_master_2026/StartList_12.pdf",
+          "results": "https://www.natacionzamora.es/trofeo_master_2026/ResultList_12.pdf",
+          "hour": "18:00"
+        }
+      ]
     }
   },
   "female": {
@@ -135,6 +152,23 @@
           "startList": "https://www.natacionzamora.es/trofeo_master_2026/StartList_2.pdf",
           "results": "https://www.natacionzamora.es/trofeo_master_2026/ResultList_2.pdf",
           "hour": "10:50"
+        }
+      ]
+    },
+    "free_relay": {
+      "title": "Libre Relevo",
+      "events": [
+        {
+          "number": "13",
+          "distance": "4x50m",
+          "name": "4x50m Libre",
+          "round": "Final contra reloj",
+          "gender": "Fem.",
+          "categoryShort": "100 - 279",
+          "category": "AG 100 - 279",
+          "startList": "https://www.natacionzamora.es/trofeo_master_2026/StartList_13.pdf",
+          "results": "https://www.natacionzamora.es/trofeo_master_2026/ResultList_13.pdf",
+          "hour": "18:09"
         }
       ]
     }
