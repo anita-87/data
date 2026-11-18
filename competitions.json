@@ -22,65 +22,13 @@
     "pool": "Los Almendros",
     "poolSize": "25m",
     "categories": ["Master"],
-    "eventsUrl": "assets/data/zamora_events.json",
-    "daysUrl": "assets/data/zamora_days.json",
-    "entryUrl": "[
-  {
-    "name": "III Trofeo Máster Open de Natación Ciudad Ponferrada",
-    "date": "14/11/2026",
-    "location": "Ponferrada",
-    "pool": "El Plantio",
-    "poolSize": "25m",
-    "categories": ["Master"],
-    "eventsUrl": "https://raw.githubusercontent.com/anita-87/data/refs/heads/main/III_trofeo_master_ciudad_ponferrada/events.json",
-    "daysUrl": "https://raw.githubusercontent.com/anita-87/data/refs/heads/main/III_trofeo_master_ciudad_ponferrada/days.json",
-    "entryUrl": "https://fenacyl.com/resultados/ONLINE/26_27/IIITMONCPO/EntryStatistics.pdf",
-    "pointsUrl": "https://fenacyl.com/resultados/ONLINE/26_27/IIITMONCPO/PointScore0.pdf",
-    "resultsUrl": {
-      "Masculino": "https://fenacyl.com/resultados/ONLINE/26_27/IIITMONCPO/CombinedEvent0.pdf",
-      "Femenino": "https://fenacyl.com/resultados/ONLINE/26_27/IIITMONCPO/CombinedEvent1.pdf"
-    }
-  },
-  {
-    "name": "III Trofeo Internacional Open Máster Ciudad de Zamora",
-    "date": "21/11/2026",
-    "location": "Zamora",
-    "pool": "Los Almendros",
-    "poolSize": "25m",
-    "categories": ["Master"],
-    "eventsUrl": "assets/data/zamora_events.json",
-    "daysUrl": "assets/data/zamora_days.json",
-    "entryUrl": "[
-  {
-    "name": "III Trofeo Máster Open de Natación Ciudad Ponferrada",
-    "date": "14/11/2026",
-    "location": "Ponferrada",
-    "pool": "El Plantio",
-    "poolSize": "25m",
-    "categories": ["Master"],
-    "eventsUrl": "https://raw.githubusercontent.com/anita-87/data/refs/heads/main/III_trofeo_master_ciudad_ponferrada/events.json",
-    "daysUrl": "https://raw.githubusercontent.com/anita-87/data/refs/heads/main/III_trofeo_master_ciudad_ponferrada/days.json",
-    "entryUrl": "https://fenacyl.com/resultados/ONLINE/26_27/IIITMONCPO/EntryStatistics.pdf",
-    "pointsUrl": "https://fenacyl.com/resultados/ONLINE/26_27/IIITMONCPO/PointScore0.pdf",
-    "resultsUrl": {
-      "Masculino": "https://fenacyl.com/resultados/ONLINE/26_27/IIITMONCPO/CombinedEvent0.pdf",
-      "Femenino": "https://fenacyl.com/resultados/ONLINE/26_27/IIITMONCPO/CombinedEvent1.pdf"
-    }
-  },
-  {
-    "name": "III Trofeo Internacional Open Máster Ciudad de Zamora",
-    "date": "21/11/2026",
-    "location": "Zamora",
-    "pool": "Los Almendros",
-    "poolSize": "25m",
-    "categories": ["Master"],
     "eventsUrl": "https://raw.githubusercontent.com/anita-87/data/refs/heads/main/III_trofeo_master_ciudad_zamora/events.json",
     "daysUrl": "https://raw.githubusercontent.com/anita-87/data/refs/heads/main/III_trofeo_master_ciudad_zamora/days.json",
     "entryUrl": "https://www.natacionzamora.es/trofeo_master_2026/EntryStatistics.pdf",
     "pointsUrl": "https://www.natacionzamora.es/trofeo_master_2026/PointScore0.pdf",
     "resultsUrl": {
       "Masculino": "https://www.natacionzamora.es/trofeo_master_2026/CombinedEvent1.pdf",
-      "Femenino": "https://www.natacionzamora.es/trofeo_master_2026/CombinedEvent0.pdf",
+      "Femenino": "https://www.natacionzamora.es/trofeo_master_2026/CombinedEvent0.pdf"
     }
   },
   {
@@ -95,10 +43,6 @@
     "entryUrl": "",
     "pointsUrl": "",
     "resultsUrl": {}
-  }
-]",
-    "pointsUrl": "",
-    "resultsUrl": {}
   },
   {
     "name": "XXXII Copa Clubes de Natación Segunda División",
@@ -110,10 +54,6 @@
     "eventsUrl": "assets/data/valladolid_events.json",
     "daysUrl": "assets/data/valladolid_days.json",
     "entryUrl": "",
-    "pointsUrl": "",
-    "resultsUrl": {}
-  }
-]",
     "pointsUrl": "",
     "resultsUrl": {}
   },
