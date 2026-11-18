@@ -43,31 +43,5 @@
     "entryUrl": "",
     "pointsUrl": "",
     "resultsUrl": {}
-  },
-  {
-    "name": "XXXII Copa Clubes de Natación Segunda División",
-    "date": "12/12/2026-13/12/2026",
-    "location": "Valladolid",
-    "pool": "Parquesol",
-    "poolSize": "25m",
-    "categories": ["Absoluta", "Junior", "Infantil"],
-    "eventsUrl": "assets/data/valladolid_events.json",
-    "daysUrl": "assets/data/valladolid_days.json",
-    "entryUrl": "",
-    "pointsUrl": "",
-    "resultsUrl": {}
-  },
-  {
-    "name": "XXXII Copa Clubes de Natación Segunda División",
-    "date": "12/12/2026-13/12/2026",
-    "location": "Valladolid",
-    "pool": "Parquesol",
-    "poolSize": "25m",
-    "categories": ["Absoluta", "Junior", "Infantil"],
-    "eventsUrl": "assets/data/valladolid_events.json",
-    "daysUrl": "assets/data/valladolid_days.json",
-    "entryUrl": "",
-    "pointsUrl": "",
-    "resultsUrl": {}
   }
 ]
